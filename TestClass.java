@@ -15,7 +15,7 @@ public class TestClass {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		 System.setProperty("webdriver.chrome.driver", "C:\\Users\\SiriAB\\Documents\\Automation\\chromedriver_win321\\chromedriver_win32 (4)\\chromedriver.exe");  
+		 System.setProperty("webdriver.chrome.driver", "C:\Users\000A7R744\Documents\Automation");  
 		 System.setProperty("webdriver.chrome.silentOutput", "true");
          WebDriver driver=new ChromeDriver();  
          driver.manage().window().maximize(); 
